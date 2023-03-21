@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppRegistration</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="textview" translatable="false">TextView</string>
+    <string name="avatar" translatable="false">Avatar</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="surname" translatable="false">Surname</string>
+    <string name="secondname" translatable="false">Second name</string>
+    <string name="done" translatable="false">Done</string>
+</resources>
